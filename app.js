@@ -52,31 +52,7 @@ function view (state, emit) {
       <header id='header'>
         <div id="grain" class="grain"></div>
         <h1>The <br/>Future <br/>That </br>Never </br>Was</h1>
-        ${!state.headerOpen ? html`<span class="f-l f0_75 tt-u">${state.concepts[state.selectedConcept]}</span>` : null}
-        <button onclick="${_onClick}" class="clear-button f1 f-r" title="${state.headerOpen ? 'Close information section' : 'Open information section'}">?</button>
-        ${state.headerOpen ? html`
-          <div class="mt-2_5">
-            <p>${DESCRIPTION}.</p>
-            <div>
-              ${state.concepts.map(function (name, i) {
-                return html`
-                  <button
-                    class="clear-button mt-0_5 mr-0_5 tt-u d-ib ws-nw f0_75 ${i === state.selectedConcept ? 'highlight' : 'tc-white'}"
-                    onclick=${_highlight.bind(null, i)}
-                  >
-                    ${name}
-                  </button>
-                `
-              })}
-            </div>
-            <div class="mt-5 mb-3">
-              <p>ABOUT</p>
-              <p><a href="https://hex22.org">Hunor Karamán</a> is on a journey of poetry, metaphysics, ecological thought, and the politics of AI and automation. He currently studies how machines learn from data at the Johannes Kepler University in Linz.</p>
-              <p>2022 04 14</p>
-              <p>CC BY-NC-SA</p>
-            </div>
-          </div>
-        ` : null}
+        
       </header>
       ${state.cache(Content, 'content').render(content)}
     </body>
