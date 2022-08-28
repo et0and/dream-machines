@@ -6,7 +6,7 @@ With work by:
 
 Kathryn Reid, Kate Haskell, Vivianne Qian, Scarlett Murphy, Scarlett Somerville-Ryan, Ella Yazici, Lucy Nichol, Tom McCarthy, Hannah Mace, Lily Hatton-Burke, Audrey Yan, Holly Glennie-Crosby, Nik Lee, Elena Volkov, Sascha Letica, Sanjana Vinod, Alexandra Perkins.
 
-[https://tewahi.com](Enter the show)
+<a href="https://tewahi.com">Enter the show</a>
 
 <!--Someone else’s presence is vibrating in my experience. The eternal bond between us is my reality. They’re my fragments of memories and my hopes of the future. They’re the patience that leads me to <span data-c="dream">nirvana</span>. Will I feel it once I get there? We share parts of ourselves and parts of what we know about this story. Eventually, we feel a soft sensation of goodbye.
 
