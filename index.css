@@ -148,3 +148,12 @@ a[id] {padding-top: 200px}
 .tc-white {color:rgb(0, 0, 0)}
 .ws-nw {white-space:nowrap}
 
+.button {
+  display: inline-block;
+	background: #000;
+	color: #fff;
+	padding: 14px 64px;
+	text-decoration: none;
+	border-radius: 50px;
+	line-height: 1.4;
+}
