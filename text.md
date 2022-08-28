@@ -1,4 +1,8 @@
-When I close my eyes, I like to think of a place. It’s nowhere. I don’t have a <span data-c="body">body</span>. <span data-c="ghost">No voice. No name. No past. No breath. No perception. No ego.</span>
+
+
+When I close my eyes, I like to think of a future. A future where anything is possible, where nothing is out of the question, where everything is bright.
+
+## A virtual art show hosted by Te Wāhi Auaha online and Kunstmatrix
 
 Someone else’s presence is vibrating in my experience. The eternal bond between us is my reality. They’re my fragments of memories and my hopes of the future. They’re the patience that leads me to <span data-c="dream">nirvana</span>. Will I feel it once I get there? We share parts of ourselves and parts of what we know about this story. Eventually, we feel a soft sensation of goodbye.
 
@@ -57,26 +61,3 @@ Keeping us simultaneously <span data-c="dream machine">on the machines</span> an
 
 <span data-c="dream">We’ve been longing for the dream for our entire history.</span> The Biblical theme of Jacob’s ladder, Zhuang Zhou’s butterfly dream, new age spiritualisms all render this longing onto powerful images.[^9] Computers promised to fulfil our ancient desire to become <span data-c="ghost">ghosts, spirits, angels, specters. Bodies made out of thin air.</span> Our society is feeling the hopelessness of one more technological revolution that failed to make <span data-c="dream">this promise</span> true. The desires of a society are codified into its rituals[^12], bidirectionally transformed by its technology through various feedback loops. In the end, "technology is society made durable".[^10] Our rituals are designing more and more <span data-c="dream">heaven-like spaces</span>, <span data-c="ghost">simulating post-death states</span>, keeping our folkloric illusions of infinities. A project just as much political as spiritual, as much phenomenological as computational, as much archeologic as radically techno-optimistic and posthumanic.
 
-## REFERENCES
-
-Many of the allegories were used as visual metaphors from Vladan Joler's "New Extractivism". Images by [Kata Bokor](https://www.instagram.com/lethertouch), from my phone, and found [on Are.na along with other references](https://www.are.na/hunor-karaman/dream-machines-_o_0x_c61t0).
-
-[^1]: Achille Mbembe, "Meditation on the Second Creation", [e-flux.com](https://www.e-flux.com/journal/114/364960/meditation-on-the-second-creation/), 2020
-[^2]: Vladan Joler, "New Extractivism", [extractivism.online](https://extractivism.online), 2020
-[^3]: [https://www.are.na/block/14898947](https://www.are.na/block/14898947)
-[^4]: Excuse me the reductionism. It isn't essential here, but helps to point at something: a horizonless self.
-[^5]: Gilles Deleuze and Félix Guattari, "A Thousand Plateaus: Capitalism and Schizophrenia", 1980
-[^6]: Byung-Chul Han, "Psychopolitics: Neoliberalism and New Technologies of Power", 2017
-[^7]: A softer, more virtual version of the cyborg. (Donna Haraway, "A Cyborg Manifesto", 1985)
-[^8]: Laboria Cuboniks, "Xenofeminism: A Politics for Alienation", [laboriacuboniks.net](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/), 2018
-[^9]: Rubin Naiman, "In exile from the dreamscape", [aeon.co](https://aeon.co/essays/we-live-in-a-wake-centric-world-losing-touch-with-our-dreams), 2020
-[^10]: Bruno Latour, "Technology is society made durable", 1990
-[^11]: Nemesis, "HEAVEN (LUXURY = DEATH)", [soundcloud.com](https://soundcloud.com/user-960402011/nemesis-heaven), 2018
-[^12]: Matteo Pasquinelli, "Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space", [e-flux.com](https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space/), 2019
-[^13]: Timothy Morton, "Hyperobjects", 2013
-[^14]: Jack Self, "THE BIG FLAT NOW", [032c.com](https://032c.com/magazine/the-big-flat-now-power-flatness-and-nowness-in-the-third-millennium), 2018
-[^15]: From an MIT press podcast I cannot find anymore.
-[^16]: Ursula K. Le Guin, "The Carrier Bag Theory of Fiction", [theanarchistlibrary.org](https://theanarchistlibrary.org/library/ursula-k-le-guin-the-carrier-bag-theory-of-fiction), 1986
-[^17]: Resembling [DeepDream](https://web.archive.org/web/20150703064823/http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html)
-[^18]: [https://www.are.na/block/136048](https://www.are.na/block/136048)
-[^19]: "Computational Psychoanalysis", [gjoncas.github.io](https://gjoncas.github.io/posts/2021-02-16-computational-psychoanalysis.html), 2021
