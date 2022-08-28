@@ -7,7 +7,7 @@ var Content = require('./lib/content')
 var stores = require('./lib/stores')
 
 var content = fs.readFileSync(path.join(__dirname, 'text.md'), 'utf8')
-var TITLE = 'Inside Dream Machines'
+var TITLE = 'The Future That Never Was - a virtual art show'
 var DESCRIPTION = 'A (post-)phenomenological index of digital specters'
 var URL = 'https://hex22.org/inside-dream-machines/'
 
@@ -51,7 +51,7 @@ function view (state, emit) {
     <body>
       <header id='header'>
         <div id="grain" class="grain"></div>
-        <h1>Inside <br/>Dream <br/>Machines</h1>
+        <h1>The <br/>Future <br/>That </br>Never </br>Was</h1>
         ${!state.headerOpen ? html`<span class="f-l f0_75 tt-u">${state.concepts[state.selectedConcept]}</span>` : null}
         <button onclick="${_onClick}" class="clear-button f1 f-r" title="${state.headerOpen ? 'Close information section' : 'Open information section'}">?</button>
         ${state.headerOpen ? html`
