@@ -52,6 +52,7 @@ function view (state, emit) {
       <header id='header'>
         <div id="grain" class="grain"></div>
         <h1>The <br/>Future <br/>That </br>Never </br>Was</h1>
+        <small>A Te Wāhi show</small>
         
       </header>
       ${state.cache(Content, 'content').render(content)}
