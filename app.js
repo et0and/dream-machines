@@ -51,7 +51,7 @@ function view (state, emit) {
     <body>
       <header id='header'>
         <div id="grain" class="grain"></div>
-        <h1>Green Spaces <br/>vs. <br/>Urban Places </h1>
+        <h1>Green Spaces <br/>vs. <br/>Urban Places <br/><br/></h1>
         <small>A Year 11 virtual show</small>
         
       </header>
