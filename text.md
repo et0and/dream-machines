@@ -4,34 +4,34 @@ When I close my eyes, I like to think of a future. A future where anything is po
 
 With work by: 
 
-Anna Stevenson<br>
-Archie Caldwell<br>
-Audrey Yan<br>
-Bo Chen<br>
-Daniel O’Connor<br>
-David Pan<br>
-David Herwandi<br>
-Ella Yazici<br>
-Eric Li<br>
-Francheska Cruz<br>
-Harriet Brown<br>
-Hassan Sorour<br>
-Isaac Lough<br>
-Isla Silk<br>
-Isla Waterworth<br>
-Isobel Beszant<br>
-Ivy Denton<br>
-Jerry Huang<br>
-Juno Shepherd<br>
-Madison Hill<br>
-Mirjam Stroehlein<br>
-Nathaniel Lowen<br>
-Nik Lee<br>
-Ruby Royce<br>
-Ryan Walker<br>
-Sean Tailby<br>
-Soren Friedberg<br>
-Suki La Hood<br>
+Anna Stevenson
+Archie Caldwell
+Audrey Yan
+Bo Chen
+Daniel O’Connor
+David Pan
+David Herwandi
+Ella Yazici
+Eric Li
+Francheska Cruz
+Harriet Brown
+Hassan Sorour
+Isaac Lough
+Isla Silk
+Isla Waterworth
+Isobel Beszant
+Ivy Denton
+Jerry Huang
+Juno Shepherd
+Madison Hill
+Mirjam Stroehlein
+Nathaniel Lowen
+Nik Lee
+Ruby Royce
+Ryan Walker
+Sean Tailby
+Soren Friedberg
+Suki La Hood
 Violet Castle
 
 <a href="https://tewahi.com">Enter the show</a>
