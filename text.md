@@ -1,6 +1,6 @@
 <br><br>
 
-When I close my eyes, I like to think of a future. A future where anything is possible, where nothing is out of the question, where everything is bright.
+<center><a href="https://tewahi.com">Enter the show</a></center>
 
 With work by: 
 
@@ -34,5 +34,5 @@ Soren Friedberg
 Suki La Hood
 Violet Castle
 
-<a href="https://tewahi.com">Enter the show</a>
+
 
