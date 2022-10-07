@@ -1,6 +1,7 @@
-<br><br>
 
-<center><a href="https://tewahi.com">Enter the show</a></center>
+<a href="https://tewahi.com">Enter the show</a>
+
+<br><br>
 
 With work by: 
 
