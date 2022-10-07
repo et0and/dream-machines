@@ -7,8 +7,8 @@ var Content = require('./lib/content')
 var stores = require('./lib/stores')
 
 var content = fs.readFileSync(path.join(__dirname, 'text.md'), 'utf8')
-var TITLE = 'Green Spaces vs Urban Places'
-var DESCRIPTION = 'A Year 11 Digital Art Show'
+var TITLE = 'Digital Art Show'
+var DESCRIPTION = 'A Year 11 Showcase'
 var URL = 'https://hex22.org/inside-dream-machines/'
 
 var app = choo()
@@ -51,8 +51,8 @@ function view (state, emit) {
     <body>
       <header id='header'>
         <div id="grain" class="grain"></div>
-        <h1>Green Spaces <br/>vs. <br/>Urban Places <br/><br/></h1>
-        <small>A Year 11 virtual show</small>
+        <h1>DIGITAL <br/>ART <br/>SHOW <br/><br/></h1>
+        <small>2022 Year 11 virtual show</small>
         
       </header>
       ${state.cache(Content, 'content').render(content)}

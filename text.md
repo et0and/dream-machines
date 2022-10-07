@@ -4,7 +4,35 @@ When I close my eyes, I like to think of a future. A future where anything is po
 
 With work by: 
 
-Kathryn Reid, Kate Haskell, Vivianne Qian, Scarlett Murphy, Scarlett Somerville-Ryan, Ella Yazici, Lucy Nichol, Tom McCarthy, Hannah Mace, Lily Hatton-Burke, Audrey Yan, Holly Glennie-Crosby, Nik Lee, Elena Volkov, Sascha Letica, Sanjana Vinod, Alexandra Perkins.
+Anna Stevenson<br>
+Archie Caldwell<br>
+Audrey Yan<br>
+Bo Chen<br>
+Daniel O’Connor<br>
+David Pan<br>
+David Herwandi<br>
+Ella Yazici<br>
+Eric Li<br>
+Francheska Cruz<br>
+Harriet Brown<br>
+Hassan Sorour<br>
+Isaac Lough<br>
+Isla Silk<br>
+Isla Waterworth<br>
+Isobel Beszant<br>
+Ivy Denton<br>
+Jerry Huang<br>
+Juno Shepherd<br>
+Madison Hill<br>
+Mirjam Stroehlein<br>
+Nathaniel Lowen<br>
+Nik Lee<br>
+Ruby Royce<br>
+Ryan Walker<br>
+Sean Tailby<br>
+Soren Friedberg<br>
+Suki La Hood<br>
+Violet Castle
 
 <a href="https://tewahi.com">Enter the show</a>
 
